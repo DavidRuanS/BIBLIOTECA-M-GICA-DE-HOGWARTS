@@ -1,6 +1,6 @@
 # BIBLIOTECA-MAGICA-DE-HOGWARTS
 
-Este projeto foi desenvolvido em C como parte da avaliação na disciplina de Algoritmos e Estrutura de Dados da Faculdade de Unirios. O objetivo principal era criar um sistema que envolvesse algum tipo de catálogo, e decidi fazer uma Biblioteca de Hogwarts, unindo minha paixão por Harry Potter e pela leitura.
+Este projeto foi desenvolvido em C como parte da avaliação na disciplina de Algoritmos e Estrutura de Dados da Faculdade. O objetivo principal era criar um sistema que envolvesse algum tipo de catálogo, e decidi fazer uma Biblioteca de Hogwarts, unindo minha paixão por Harry Potter e pela leitura.
 
 O sistema apresenta opções organizadas em um menu, permitindo cadastrar livros, buscar por título, listar todos os livros e excluir registros. Os dados são armazenados em um arquivo para garantir a persistência das informações. Este projeto foi uma oportunidade de aplicar conceitos de árvores binárias e manipulação de arquivos em um contexto criativo e divertido.
 
